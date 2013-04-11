@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SmartPosterChecker</string>
+    <string name="check_uri_dialog_message">このURLにアクセスしますか？ \r\n\r\n%s</string>
+
+</resources>
